@@ -2,7 +2,7 @@
 
 This is a business website accessibility improvement project I did for a marketing agency called Horiseon. The project manager had two requirements that he wanted me to fullfill for this project: to create a codebase that follows all accessibility standards and to improve search engine optimization for the website.
 
-![Screenshot](assets\images\Screenshot of my completed Horiseon Project.JPG)
+![Screenshot](assets/images/Screenshot of my completed Horiseon Project.JPG)
 
 1. Creating a codebase that follows all accessibility standards
  When I was navigating through the HTML code I one of the first things I noticed was that none of the image tags had alt attributes embeded into them. These attributes are super important for accessibility because if a user has a vision disability and is using a screenreader to navigate through the Horiseon website, their device will be able to recognize the alt text and give a description of the images. I gave each image an alt attribute so I think any user, despite any disabilities they might have, are going to have a much better experience going through the graphical features of the webpage.
